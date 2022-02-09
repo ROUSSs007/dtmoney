@@ -1,7 +1,3 @@
-App example in ReactJS of a course from RocketSeat.
-
-It's a site that you can see your incomes, outcomes and total money in account from what you entered.
-
 ----------------------------------------------------------------
 
 # Getting Started with Create React App
